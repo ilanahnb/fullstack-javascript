@@ -1,0 +1,1 @@
+# Full-Stack JavaScript web application with MongoDB, Node.js, and React.js
